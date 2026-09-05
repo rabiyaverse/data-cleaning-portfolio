@@ -20,3 +20,24 @@ Skills demonstrated:
 - Maintaining source notes and data limitations.
 - Calculating proportions of total victims.
 - Preparing data for trend analysis by sex and year.
+
+  ## Tools
+
+- Microsoft Excel
+- Google Sheets
+- Data cleaning and quality checking
+- Data documentation
+- Basic descriptive analysis
+- GitHub
+
+## Data ethics and transparency
+
+The ABS project uses published aggregated data. No confidential, identifiable, or restricted research data are included in this repository.
+
+The original data source and relevant ABS notes are retained in the project documentation.
+
+## Data source
+
+Australian Bureau of Statistics, *Recorded Crime – Victims*, family and domestic violence-related offences, 2014–2024.
+
+This project is based on publicly available ABS data. Please refer to the ABS source page and licensing conditions when reusing the data
