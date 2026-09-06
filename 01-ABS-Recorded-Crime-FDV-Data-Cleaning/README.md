@@ -42,4 +42,27 @@ The workbook was checked before upload and contains no visible `#REF!`, `#VALUE!
 
 ## Important limitations
 
-- `n.a.` means data are
+- `n.a.` means data are not available or the calculation is not applicable.
+- `n.p.` means data are not published.
+- These values were not converted to zero.
+- Some locations and years may not be comparable because availability and publication rules differ.
+- ABS notes and methodological information should be considered before interpreting trends or comparing locations.
+- Recorded crime data describe incidents recorded by police and should not be interpreted as the total prevalence of family and domestic violence.
+
+## Tools and functions used
+
+- Google Sheets
+- Excel `IF` formula
+- Excel `COUNTIF` function
+- Excel `XLOOKUP` function
+- GitHub
+
+## Skills demonstrated
+
+- Spreadsheet data cleaning
+- Data restructuring and documentation
+- Data profiling and quality checks
+- Handling non-numeric, unavailable and unpublished values
+- Creating lookup tables and standardised location codes
+- Applying spreadsheet formulas for classification, lookup and conditional counting
+- Ethical use and attribution of public data
